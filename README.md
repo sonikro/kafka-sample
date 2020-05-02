@@ -44,3 +44,9 @@ After the application is running, you can send messages by sending a `POST` to h
 ```
 
 You can check in your application console, that your Kafka Listener got the record, and printed it to the console.
+
+# Visualizing your Kafka Cluster with Kafdrop
+
+You can access http://localhost:9000 to see all of your Kafka Clusteri information (Topics, Consumers, Partitions, etc)
+
+![Kafdorp Image](images/kafdrop.png)
