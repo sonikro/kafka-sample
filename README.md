@@ -50,3 +50,19 @@ You can check in your application console, that your Kafka Listener got the reco
 You can access http://localhost:9000 to see all of your Kafka Cluster information (Topics, Consumers, Partitions, etc)
 
 ![Kafdorp Image](images/kafdrop.png)
+
+# Bibliographical Reference
+
+In order to understand everything, and to create this example, the following material was used:
+
+
+- “Because Coordinating Distributed Systems Is a Zoo.” ZooKeeper, zookeeper.apache.org/doc/current/index.html.
+- “Introduction.” Apache Kafka, kafka.apache.org/intro.
+- “Kafka Architecture.” Cloudurable AWS Cassandra, Spark and AWS Kafka Support, Cassandra Consulting, Kafka Consulting, SMACK/Lambda Architecture Consulting, SMACK/Lambda Architecture Training, Cassandra Training and AWS DevOps Services., cloudurable.com/blog/kafka-architecture/index.html.
+- Kafka Listeners - Explained, rmoff.net/2018/08/02/kafka-listeners-explained/.
+- Koutanov, Emil. “Kafdrop - An Open-Source Kafka Web UI.” DEV Community, DEV Community, 19 Dec. 2019, dev.to/ekoutanov/kafdrop-an-open-source-kafka-web-ui-mbn.
+- Posta. “What Is Apache Kafka? Why Is It so Popular? Should I Use It?” TechBeacon, TechBeacon, 5 Feb. 2019, techbeacon.com/app-dev-testing/what-apache-kafka-why-it-so-popular-should-you-use-it.
+- “Quickstart.” Apache Kafka, kafka.apache.org/quickstart.
+- Shilo, Guy. “Kafka Administration and Monitoring UI Tools - DZone Big Data.” Dzone.com, 28 Nov. 2019, dzone.com/articles/kafka-administration-and-monitoring-ui-tools.
+- ZooKeeper, zookeeper.apache.org/doc/current/zookeeperOver.html.
+- Micronaut Kafka, micronaut-projects.github.io/micronaut-kafka/latest/guide.
