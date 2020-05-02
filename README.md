@@ -47,6 +47,6 @@ You can check in your application console, that your Kafka Listener got the reco
 
 # Visualizing your Kafka Cluster with Kafdrop
 
-You can access http://localhost:9000 to see all of your Kafka Clusteri information (Topics, Consumers, Partitions, etc)
+You can access http://localhost:9000 to see all of your Kafka Cluster information (Topics, Consumers, Partitions, etc)
 
 ![Kafdorp Image](images/kafdrop.png)
